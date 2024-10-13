@@ -60,3 +60,12 @@ img {
 .videos-categoria::-webkit-scrollbar {
     display: none;
 }
+
+.videos-categoria img {
+    opacity: 0.5;
+}
+
+.videos-categoria img:hover {
+    opacity: 1.0;
+    border: 1px solid white;
+}
