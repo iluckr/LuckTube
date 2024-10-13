@@ -38,10 +38,6 @@ a {
     text-decoration: none;
 }
 
-img {
-    height: 200px;
-}
-
 .categoria h2 {
     padding-left: 16px;
     color: rgb(65, 148, 231);
@@ -63,9 +59,11 @@ img {
 
 .videos-categoria img {
     opacity: 0.5;
+    height: 190px;
 }
 
 .videos-categoria img:hover {
     opacity: 1.0;
+    height: 200px;
     border: 1px solid white;
 }
